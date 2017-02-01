@@ -1,0 +1,10 @@
+Package: es.iflam.volbanner
+Name: VolBanner
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: iFlames
+Author: iFlames
+Section: Tweaks
+Version: 0.0.1-45+debug
+Installed-Size: 428
